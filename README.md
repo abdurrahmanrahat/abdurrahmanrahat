@@ -1,12 +1,11 @@
 ![ReactJS Developer](https://i.ibb.co/0Y5qht3/github-cover.jpg)
 
 ### Hi there 👋, I'm Abdur Rahman Rahat
-#### ReactJS Developer
+#### MERN-Stack Developer
 
-I am a fresher ReactJS developer, and I am currently studying English Language & Literature. My goal is to gain extensive experience in the above-mentioned field and make myself one of the best to become
-a master developer.
+I am a mern developer, and I am currently studying English Language & Literature. My goal is to gain extensive experience in the above-mentioned field and make myself one of the best to become a master developer.
 
-Skills: HTML / CSS / Tailwind CSS / REACT JS / JavaScript / Express JS / MongoDB/ Stripe
+Skills: HTML / CSS / Tailwind CSS / REACT JS / Next JS / JavaScript / Express JS / Node JS / MongoDB/ Stripe
 
 - 🌱 I’m currently learning Next JS 
 - 🤔 I’m looking for getting an intern-job
