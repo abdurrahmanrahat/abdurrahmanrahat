@@ -1,4 +1,4 @@
-![ReactJS Developer](https://i.ibb.co/0Y5qht3/github-cover.jpg)
+![Full Stack Developer](https://i.ibb.co/p4Qp02N/linked-In-cover.png)
 
 ### Hi there 👋, I'm Abdur Rahman Rahat
 #### MERN-Stack Developer
