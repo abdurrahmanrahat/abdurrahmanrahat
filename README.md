@@ -1,13 +1,13 @@
 ![Full Stack Developer](https://i.ibb.co/p4Qp02N/linked-In-cover.png)
 
 ### Hi there 👋, I'm Abdur Rahman Rahat
-#### MERN-Stack Developer
+#### Full-Stack Developer
 
-I am a mern developer, and I am currently studying English Language & Literature. My goal is to gain extensive experience in the above-mentioned field and make myself one of the best to become a master developer.
+I am a full stack developer, and I am currently studying English Language & Literature. My goal is to gain extensive experience in the above-mentioned field and make myself one of the best to become a master developer.
 
-Skills: HTML / CSS / Tailwind CSS / REACT JS / Next JS / JavaScript / Express JS / Node JS / MongoDB/ Stripe
+Skills: HTML / CSS / Tailwind CSS / REACT JS / Next JS / JavaScript / Node JS / Express JS / MongoDB / Mongoose / Stripe
 
-- 🌱 I’m currently learning Next JS 
+- 🌱 I’m currently learning deep backend technologies 
 - 🤔 I’m looking for getting an intern-job
 - 💬 Ask me about Web Development 
 - ⚡ Fun fact: You should give a chance, haha! 
