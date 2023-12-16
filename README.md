@@ -19,8 +19,5 @@ Skills: HTML / CSS / Tailwind CSS / REACT JS / Next JS / JavaScript / Express JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurrahmanrahat&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/abdurrahmanrahat)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abdurrahmanrahat)  
 
-![Profile views](https://gpvc.arturio.dev/abdurrahmanrahat)  
