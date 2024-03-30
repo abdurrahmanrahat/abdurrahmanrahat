@@ -8,7 +8,7 @@
 ## 🛠 Skills
 - **Front-End:** `React`, `Redux` and `Next.js`.
 - **Back-End:** `Node.js`, and `Express`.
-- **Databases：** `NoSQL`、`Mongodb` and `mongoose`.
+- **Databases：** `NoSQL`, `Mongodb` and `mongoose`.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahmanrahat)](https://github.com/anuraghazra/github-readme-stats)
 
