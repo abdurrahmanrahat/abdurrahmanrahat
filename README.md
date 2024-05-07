@@ -14,3 +14,6 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abdurrahmanrahat)  
 
+<p>
+  <a href="https://twitter.com/rahat965"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/abdurrahman47/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/abdurrahmanrahat47/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+</p>
