@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/cvGVxrv/banner.png" alt="Rahat GitHub README header image">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurrahmanrahat&show_icons=true)  
 
 # Hi there 👋, I'm Abdur Rahman!
