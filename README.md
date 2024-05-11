@@ -12,6 +12,17 @@
 - **Back-End:** `Node.js`, and `Express.js`.
 - **Databases：** `NoSQL`, `Mongodb` and `Mongoose`.
 
+<p>
+  <img src="https://i.ibb.co/QY84mqg/react.png" alt="react" width="40" height="40" />
+  <img src="https://i.ibb.co/QY84mqg/react.png" alt="redux" width="40" height="40" />
+  <img src="https://i.ibb.co/pnYXKc7/next.png" alt="next" width="40" height="40" />
+  <img src="https://i.ibb.co/0GXWBbQ/tailwind.png" alt="tailwind" width="40" height="40" />
+  <img src="https://i.ibb.co/VYn0jv0/ts.png" alt="typescript" width="40" height="40" />
+  <img src="https://i.ibb.co/kx8KjZm/node-Js-removebg-preview.png" alt="node.js" width="40" height="40" />
+  <img src="https://i.ibb.co/Fspyky2/express.png" alt="express.js" width="40" height="40" />
+  <img src="https://i.ibb.co/vXCKLNM/mongo-db.png" alt="mongodb" width="40" height="40" />
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahmanrahat)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abdurrahmanrahat)  
